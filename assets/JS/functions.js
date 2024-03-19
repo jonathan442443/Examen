@@ -28,7 +28,7 @@ else{
       localStorage.setItem("student"+number,JSON.stringify(obj))
 }
 alert("La sauvegarde a bien été effectuée!");
-window.location.pathname="/listUser.html"; 
+window.location.pathname="listUser.html"; 
 }
 
 
